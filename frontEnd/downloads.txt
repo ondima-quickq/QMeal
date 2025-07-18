@@ -1,0 +1,6 @@
+| Package             | Version | What It Does                                                                           |
+| ------------------- | ------- | -------------------------------------------------------------------------------------- |
+| -formik             | ^2.2.9  | A popular form library for React that helps manage form state and validation.          |
+| -zod                | ^3.20.2 | A TypeScript-first schema validation library, ideal for defining and validating data.  |
+| -zod-formik-adapter | ^2.0.0  | Integrates Zod with Formik, making it easier to use Zod for form validation in Formik. |
+| -axios              | ^1.4.0  | Promise-based HTTP client for making requests from the browser to the server.          |
